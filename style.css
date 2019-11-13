@@ -42,7 +42,7 @@ justify-content:space-around;
     
 } 
 .a3{
-    background-image: url('hero.png');
+    background-image: url('./imgs/hero.png');
     background-size: 100% 100%;
     width: 47%;
     height: 90vh;
@@ -84,7 +84,7 @@ justify-content:space-around;
     width: 44%;
     height: 70vh;
     /* border:1px solid black; */
-    background-image: url('about-img.png');
+    background-image: url('./imgs/about-img.png');
     background-size:100% 100%;
 }
 
@@ -256,7 +256,7 @@ height: 30vh;
     height: 300px;
     /* border: 1px solid black; */
     margin-left:150px;
-    background-image:url('p1.jpg');
+    background-image:url('./imgs/p1.jpg');
     background-size: 100% 100%;
     border-radius: 50px;
 }
@@ -312,7 +312,7 @@ height: 30vh;
     height: 300px;
     /* border: 1px solid black; */
     margin-left:150px;
-    background-image:url('p4.jpg');
+    background-image:url('./imgs/p4.jpg');
     background-size: 100% 100%;
     border-radius: 50px;
 }
@@ -332,7 +332,7 @@ height: 30vh;
     /* border: 1px solid black; */
     margin-left:880px;
     margin-top:-303px;
-    background-image:url('p6.jpg');
+    background-image:url('./imgs/p6.jpg');
     background-size: 100% 100%;
     border-radius: 50px;
     
@@ -538,7 +538,7 @@ height: 30vh;
     width:150px;
     height: 30vh;
     border:1px solid rgb(27, 3, 27);
-    background-image:url(12.png)
+    background-image:url(./imgs/12.png)
 }
 .header1{
     
